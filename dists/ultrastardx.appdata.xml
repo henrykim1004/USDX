@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="runtime">
+  <id>eu.usdx.UltraStarDeluxe</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>UltraStar Deluxe</name>
+  <summary>Karaoke program that evaluates your performance</summary>
+  <project_license>GPL-2.0</project_license>
+  <url type="homepage">https://usdx.eu/</url>
+  <url type="bugtracker">https://github.com/UltraStar-Deluxe/USDX/issues</url>
+  <launchable type="desktop-id">ultrastardx.desktop</launchable>
+</component>
